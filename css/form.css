@@ -9,6 +9,10 @@ form p {
 	color: white;
 }
 
+textarea {
+	color: black;
+}
+
 #pic-upload {
 	float: right;
 	padding-right: 20%;
